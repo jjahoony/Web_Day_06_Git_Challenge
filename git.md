@@ -48,7 +48,7 @@
 
 - git clone -b  ( )     :     clone the branch that I forked
 
-![cloneing command](./sc3.png)
+![cloneing command](./sc3.PNG)
 
 - git checkout -b ( )   :     switch to a new branch name ( )
 
