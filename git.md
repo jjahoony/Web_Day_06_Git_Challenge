@@ -12,7 +12,7 @@
 
 - cd ..                  :     go back to previos directory
 
-(.images/sc1.png)
+![pwd~cd commands](./sc1.PNG)
 
 - mkdir ( )              :     making directory
 
@@ -24,7 +24,7 @@
 
 -  code .                 :     install vsc
 
-(.images/sc2.png)
+![git init~code .commands](./sc2.PNG)
 
 - git status            :     current status of my vsc
 
@@ -48,7 +48,7 @@
 
 - git clone -b  ( )     :     clone the branch that I forked
 
-(.images/sc3.png)
+![cloneing command](./sc3.PNG)
 
 - git checkout -b ( )   :     switch to a new branch name ( )
 
