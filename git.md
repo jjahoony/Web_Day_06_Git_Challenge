@@ -12,7 +12,7 @@
 
 - cd ..                  :     go back to previos directory
 
-![pwd~cd commands](./sc1.png)
+![pwd~cd commands](./sc1.PNG)
 
 - mkdir ( )              :     making directory
 
@@ -24,7 +24,7 @@
 
 -  code .                 :     install vsc
 
-![git init~code .commands](./sc2.png)
+![git init~code .commands](./sc2.PNG)
 
 - git status            :     current status of my vsc
 
